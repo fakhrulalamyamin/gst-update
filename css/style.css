@@ -7,6 +7,7 @@
 }
 
 body {
+    overflow-x: hidden;
     font-family: 'Hind Siliguri', sans-serif;
 }
 
@@ -43,7 +44,7 @@ header {
 }
 
 #hero {
-    padding-top: 60px;
+    padding-top: 200px;
 }
 
 #hero h1 {
